@@ -1,2 +1,2 @@
 # carro_de_supermercado
-ejercricos 1 guia
+ejercicio 1 guia2 
